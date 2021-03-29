@@ -1,0 +1,4 @@
+# all file with . start:
+.*
+# .gitignore do not except:
+!.gitignore
